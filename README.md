@@ -1,4 +1,8 @@
 # Fixed-Deposit-Interactive-Dashboard
+[Dashboard Link](https://docs.google.com/spreadsheets/d/1Uyg939B63iQwhb_ML0QVxVG0gZVIXGUzPvw9m3clqMw/edit?usp=sharing)
+
+**Create a copy in order to use the interactive features**
+
 Introduction:
 
 
